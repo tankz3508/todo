@@ -11,5 +11,7 @@ int main() {
     todo1.write("output.txt");
     todo1.load("output.txt");
 
+    // todo1.clear("output.txt");
+
     return 0;
 }
