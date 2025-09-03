@@ -20,5 +20,5 @@ public:
 
     void write(const std::string& path) const;
     void load(const std::string& path);
-    static void clear(const std::string& path);
+    void clear(const std::string& path);
 };
